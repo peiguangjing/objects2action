@@ -1,5 +1,3 @@
-This repository is an implementation of "Objects2action: Classifying and localizing actions without any video example". 
+This repository is an implementation of [Objects2action: Classifying and localizing actions without any video example] (https://staff.fnwi.uva.nl/m.jain/pub/jain-objects2action-iccv2015.pdf) which is first attempt to solve zero-shot action recognition problem. 
 
-This repo is not the original implementation of the related paper.
-
-The code needs word vectors of actions and also object scores and these are provided by the authors. You can check out the web page of Objectsaction project (https://staff.fnwi.uva.nl/m.jain/projects/Objects2action.html) to obtain these data.
+This code needs distributed word representations and object scores which can be obtained from [objects2action] (https://staff.fnwi.uva.nl/m.jain/projects/Objects2action.html)
